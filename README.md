@@ -1,24 +1,10 @@
-# README
+# foodlog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository is for personal studies purposes and my first contact with the Rails framework.
 
-Things you may want to cover:
+I am following the [*Ruby On Rails Crash Course 2020*](https://www.youtube.com/watch?v=B3Fbujmgo60), kindly made by Andy Leverenz from the channel [Web-Crunch](https://www.youtube.com/c/Webcrunch) and it is posted on the channel [Traverse Media](https://www.youtube.com/user/TechGuyWeb) on YouTube. Please make sure to also check out his blog on [Web-Crunch.com](https://web-crunch.com/).
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Important links used:
+- [go-rails.com](https://gorails.com/)
+- [rubyonrails.org](https://rubyonrails.org/)
+- [bulma.io](https://bulma.io/)
