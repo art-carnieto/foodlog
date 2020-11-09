@@ -8,3 +8,7 @@ Important links used:
 - [go-rails.com](https://gorails.com/)
 - [rubyonrails.org](https://rubyonrails.org/)
 - [bulma.io](https://bulma.io/)
+
+Software versions:
+- Rails version: 6.0.3.3
+- Ruby version: ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]
