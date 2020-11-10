@@ -7,6 +7,7 @@ I am following the [*Ruby On Rails Crash Course 2020*](https://www.youtube.com/w
 Important links used:
 - [go-rails.com](https://gorails.com/)
 - [rubyonrails.org](https://rubyonrails.org/)
+- [rubygems.org](https://rubygems.org/)
 - [bulma.io](https://bulma.io/)
 
 Software versions:
